@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Weiny Markos</h1>
-<h3 align="center">Junior Full Stack Developer</h3>
+<h1 align="left">Hi 👋, I'm Weiny Markos</h1>
+<h3 align="left">Junior Full Stack Developer</h3>
 <br>
 
 - 🔭 I’m currently working on **a budget planner application**
