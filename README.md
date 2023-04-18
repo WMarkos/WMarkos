@@ -1,11 +1,12 @@
-<h1 align="left">Hello!👋, I'm Weiny Markos</h1>
-<h3 align="left">Junior Full Stack Developer</h3>
+<h1 align="centre">Hello!👋, I'm Weiny Markos</h1>
+<h3 align="centre">Junior Full Stack Developer</h3>
+<br>
 
 - 🔭 I’m currently working on **a budget planner application**
 
 - 🌱 I’m currently learning **React**
 
-<br>
+
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
