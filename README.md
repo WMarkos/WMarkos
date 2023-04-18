@@ -2,7 +2,7 @@
 <h3 align="center">Junior Full Stack Developer</h3>
 <br>
 
-- 🔭 I’m currently working on **a budget planner application**
+- 🔭 I’m currently working on **a budget planner app**
 
 - 🌱 I’m currently learning **React**
 
