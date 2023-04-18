@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on **a budget planner application**
 
 - 🌱 I’m currently learning **React**
-<br>
 
 <p align="left">
 </p>
